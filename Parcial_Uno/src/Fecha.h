@@ -18,16 +18,8 @@
 #include "Validacion.h"
 #include "Cliente.h"
 
-typedef struct
-{
-	int id;
-	int dia;
-	int mes;
-	int anio;
-}eFecha;
 
-int listarFechas(eFecha* listaFechas, int tamFecha);
-int cargarFechas(eFecha* listaFechas, int tamFecha, int id);
+
 
 
 

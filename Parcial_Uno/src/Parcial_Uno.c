@@ -5,7 +5,7 @@
 #include "Color.h"
 #include "Servicio.h"
 #include "Tipo.h"
-#include "Trabajo.h"
+//#include "Trabajo.h"
 #include "Validacion.h"
 #include "Fecha.h"
 #include "Cliente.h"
@@ -21,11 +21,9 @@
 #define OCUPADO 1
 
 
+
+
 int menuInformes();
-
-
-
-
 
 int main(void)
 {
@@ -349,3 +347,4 @@ int menuInformes()
 
 	return opcionMenu;
 }
+
