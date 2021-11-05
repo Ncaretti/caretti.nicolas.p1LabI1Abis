@@ -1,9 +1,4 @@
-/*
- * Color.h
- *
- *  Created on: Oct 26, 2021
- *      Author: Seether
- */
+
 
 #ifndef COLOR_H_
 #define COLOR_H_

@@ -5,7 +5,7 @@
 #include "Color.h"
 #include "Servicio.h"
 #include "Tipo.h"
-//#include "Trabajo.h"
+#include "Trabajo.h"
 #include "Validacion.h"
 #include "Fecha.h"
 #include "Cliente.h"
@@ -347,4 +347,3 @@ int menuInformes()
 
 	return opcionMenu;
 }
-

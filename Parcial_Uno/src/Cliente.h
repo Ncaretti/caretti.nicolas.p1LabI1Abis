@@ -1,9 +1,4 @@
-/*
- * Cliente.h
- *
- *  Created on: Oct 27, 2021
- *      Author: Seether
- */
+
 
 #ifndef CLIENTE_H_
 #define CLIENTE_H_
